@@ -2,12 +2,12 @@
   "v": "2.0",
   "channels": [
     {
-      "name": "80s Music Legends",
+      "name": "4fun Mamamia",
       "videos": [
         {
-          "id": "hYrbSCqAZuA",
-          "title": "Best of 80s Music Legends - Tears For Fears, Madonna, Cyndi Lauper, Modern Talking, Michael Jackson",
-          "durationSec": 4984
+          "id": "1Nx46V4JmBQ",
+          "title": "Nigerians have accepted Peter Obi , NDC officially hands him party flag",
+          "durationSec": 574
         }
       ]
     },
@@ -22,12 +22,22 @@
       ]
     },
     {
+      "name": "Albert CT",
+      "videos": [
+        {
+          "id": "fyigPPq28MY",
+          "title": "Retromix Vol 7: Best Disco Funk 70s & 80s📀(ABBA, Bee Gees, The Trammps, Chic, Gloria Gaynor, Boney M",
+          "durationSec": 3593
+        }
+      ]
+    },
+    {
       "name": "Arise News",
       "videos": [
         {
-          "id": "8ZBZhrpyL3c",
-          "title": "NDC Holds Presidential Affirmation Convention",
-          "durationSec": 5189
+          "id": "bPf_extj05E",
+          "title": "Peter Obi Is A Talk-And-Do Leader, His Record As Governor Proves It - Tanko",
+          "durationSec": 793
         },
         {
           "id": "TFdhN5ew3DU",
@@ -37,23 +47,8 @@
       ]
     },
     {
-      "name": "Asad International Academy",
-      "videos": [
-        {
-          "id": "SsY95gSEe9c",
-          "title": "Solving a 'Stanford' University entrance exam | t=?",
-          "durationSec": 691
-        }
-      ]
-    },
-    {
       "name": "Astrum",
       "videos": [
-        {
-          "id": "ZTX64qW_LK0",
-          "title": "Why Polaris Is the Most Confusing Star in the Sky",
-          "durationSec": 1204
-        },
         {
           "id": "NP9AKPeeHXs",
           "title": "The Real Proof of Water on Mars",
@@ -303,6 +298,11 @@
           "id": "rL6uo5FRnKY",
           "title": "Black Holes Aren't the Weirdest Objects in Space",
           "durationSec": 3457
+        },
+        {
+          "id": "ZTX64qW_LK0",
+          "title": "Why Polaris Is the Most Confusing Star in the Sky",
+          "durationSec": 1204
         },
         {
           "id": "WsTuti1ezpc",
@@ -562,22 +562,12 @@
       ]
     },
     {
-      "name": "BBC News Africa",
-      "videos": [
-        {
-          "id": "xETIY9A4Vb4",
-          "title": "Surviving Biafra: Voices from the Nigerian Civil War - BBC Africa Eye Documentary",
-          "durationSec": 4486
-        }
-      ]
-    },
-    {
       "name": "Binge Central",
       "videos": [
         {
-          "id": "OVr6YmqnrWs",
-          "title": "Nobody Breaks Celebrities Like Rowan Atkinson",
-          "durationSec": 536
+          "id": "404MXagSYvM",
+          "title": "Every Time Celebrities Did Impressions In Front Of The Actual Person",
+          "durationSec": 3054
         }
       ]
     },
@@ -827,8 +817,23 @@
       ]
     },
     {
+      "name": "CELEBRITY info",
+      "videos": [
+        {
+          "id": "BmG95Fs0DVo",
+          "title": "30 Oldest James Bond Stars Still Alive — Then & Now",
+          "durationSec": 297
+        }
+      ]
+    },
+    {
       "name": "Channels Television",
       "videos": [
+        {
+          "id": "B7GqZ3QylEs",
+          "title": "NDC, APGA, APM Candidates Emerge For 2027 General Elections",
+          "durationSec": 233
+        },
         {
           "id": "T4dCmc5kEu8",
           "title": "Atiku Meets Hayatu-Deen Amid ADC Reconciliation Efforts",
@@ -1467,32 +1472,12 @@
       ]
     },
     {
-      "name": "Dj Triple M",
+      "name": "FMJLegacyVEVO",
       "videos": [
         {
-          "id": "j_fLYxTJrtE",
-          "title": "SOUL MEGAMIX 2026| TRIPLE M| VIBES & CHILL 69 #SOULTOSOUL (BILLY OCEAN, MADONNA, ACE OF BASE,SPAGNA)",
-          "durationSec": 8716
-        }
-      ]
-    },
-    {
-      "name": "English with Lucy",
-      "videos": [
-        {
-          "id": "OVARWIFKZkw",
-          "title": "If you score over 80% (12/15) on this grammar test, your English is OUTSTANDING!",
-          "durationSec": 962
-        }
-      ]
-    },
-    {
-      "name": "Flavor Nostalgia",
-      "videos": [
-        {
-          "id": "CVM1bGiylio",
-          "title": "80s Timeless Hits Playlist | Iconic Songs That Defined the Decade",
-          "durationSec": 5093
+          "id": "1rgELmO9Wvg",
+          "title": "『2023』Michael Jackson - HIStory On Film (Volume II) | FULL 4K MOVIE",
+          "durationSec": 6411
         }
       ]
     },
@@ -1525,11 +1510,6 @@
           "durationSec": 791
         },
         {
-          "id": "KbgLWIXhrNQ",
-          "title": "What's The Solar System Tilted Against?",
-          "durationSec": 772
-        },
-        {
           "id": "v2aYAfKj4-0",
           "title": "The Two Earthquakes That Will Shatter America | 4K Documentary",
           "durationSec": 1769
@@ -1553,6 +1533,11 @@
           "id": "2r4dXArZDB4",
           "title": "Why Do Things Drop In From Above, But We Can't Escape?",
           "durationSec": 766
+        },
+        {
+          "id": "KbgLWIXhrNQ",
+          "title": "What's The Solar System Tilted Against?",
+          "durationSec": 772
         },
         {
           "id": "-mA0gyHIhJ0",
@@ -2662,12 +2647,32 @@
       ]
     },
     {
+      "name": "MovieWorld",
+      "videos": [
+        {
+          "id": "Asizz7lZEWc",
+          "title": "BEST UPCOMING BLOCKBUSTER MOVIES 2026 (Trailers) 4K ULTRA HD",
+          "durationSec": 1605
+        }
+      ]
+    },
+    {
+      "name": "Oldies Memory Lane",
+      "videos": [
+        {
+          "id": "GiQyReiCOQ4",
+          "title": "Oldies But Goodies 50s 60s 70s 📻 Timeless Classic Songs To Bring Back Beautiful Memories & Relax ✨",
+          "durationSec": 4793
+        }
+      ]
+    },
+    {
       "name": "PBS Space Time",
       "videos": [
         {
-          "id": "mPFFUWPXAFs",
-          "title": "Do We Live in the Rarest Solar System In The Universe? We're about to find out!",
-          "durationSec": 1402
+          "id": "xRhsD-RQNHs",
+          "title": "At What Point Does Spacetime Become Quantum?",
+          "durationSec": 1238
         },
         {
           "id": "Wu8xNx4njoM",
@@ -2730,6 +2735,11 @@
           "durationSec": 1635
         },
         {
+          "id": "mPFFUWPXAFs",
+          "title": "Do We Live in the Rarest Solar System In The Universe? We're about to find out!",
+          "durationSec": 1402
+        },
+        {
           "id": "e9xOMOTTW6U",
           "title": "The Gravity Particle Should Exist. So Where Is It?",
           "durationSec": 1405
@@ -2748,11 +2758,6 @@
           "id": "PuHrtlJPk3o",
           "title": "Why Life on Mars Will DOOM Humanity",
           "durationSec": 1275
-        },
-        {
-          "id": "xRhsD-RQNHs",
-          "title": "At What Point Does Spacetime Become Quantum?",
-          "durationSec": 1238
         },
         {
           "id": "HlNKj0K_3FY",
@@ -3192,22 +3197,22 @@
       ]
     },
     {
-      "name": "Pure Data Comparison",
+      "name": "PreMath",
       "videos": [
         {
-          "id": "SKh-2oq2x-A",
-          "title": "Real Heights of 300 Hollywood Actors - How Tall Are They Really?",
-          "durationSec": 1035
+          "id": "jrfsU3bWLn8",
+          "title": "Can you find area of the Green shaded region? | (Quarter Circle) | #math #maths | #geometry",
+          "durationSec": 508
         }
       ]
     },
     {
-      "name": "Refresh Nigeria",
+      "name": "Premium Times",
       "videos": [
         {
-          "id": "Gj2X9YUdilM",
-          "title": "Nigeria is DEAD FULL Video: Tinubu EXPOSED? Pastor of House on the Rock Church | 2027 Election",
-          "durationSec": 2794
+          "id": "tMtpVcIgofg",
+          "title": "Tinubu has rescued Nigeria from the brink of collapse to a path of stability and recovery",
+          "durationSec": 116
         }
       ]
     },
@@ -3222,22 +3227,22 @@
       ]
     },
     {
-      "name": "SirMajesty Easyworld Science Channel",
+      "name": "SUPREMACY SOUNDS",
       "videos": [
         {
-          "id": "c_Lkm-EhAWs",
-          "title": "WAEC 2026 Physics Theory leaks. Correct Answers Included. Very Real and Free for all. Revision class",
-          "durationSec": 6934
+          "id": "skJFyGDxUMY",
+          "title": "Back to the 80s Megamix 🔥 Non-Stop Euro Disco, Italo Disco & Synth Pop Hits",
+          "durationSec": 7732
         }
       ]
     },
     {
-      "name": "SplashFM1055",
+      "name": "SylentEcho",
       "videos": [
         {
-          "id": "NIJ6zyGIc-A",
-          "title": "Watch Rabiu Kwankaso reactions as Peter Obi declares him Vice President for 2027 Election under NDC",
-          "durationSec": 521
+          "id": "Iniq0xRztMU",
+          "title": "Cartoon Network 1992 Stream 💥 SUPER ADVENTURES 💥",
+          "durationSec": 5683
         }
       ]
     },
@@ -3255,29 +3260,14 @@
       "name": "TVC News Nigeria",
       "videos": [
         {
-          "id": "TzOWaeXCHSI",
-          "title": "Third Anniversary: President Tinubu Urges Nigerians To Embrace Love, Unity",
-          "durationSec": 470
+          "id": "aVWlwnfdZ0A",
+          "title": "Tinubu Orders Deployment Of 1,000 Forest Guards, Tactical Rescue Team To Oyo State",
+          "durationSec": 655
         },
         {
           "id": "DwmPvb9yZmU",
           "title": "Lagos Monthly Sanitation Exercise Records Massive Participation In Second Month",
           "durationSec": 118
-        },
-        {
-          "id": "-1rBdWzho0w",
-          "title": "PDP Faction Ratifies Former Pres. Goodluck Jonathan As Presidential Candidate",
-          "durationSec": 211
-        }
-      ]
-    },
-    {
-      "name": "The Infographics Show",
-      "videos": [
-        {
-          "id": "4WyduoGpIPo",
-          "title": "You NEED to STOP Using Google Right Now",
-          "durationSec": 1017
         }
       ]
     },
@@ -3290,9 +3280,9 @@
           "durationSec": 235
         },
         {
-          "id": "AUmI9wkG7RM",
-          "title": "Donovan - Universal Soldier • TopPop",
-          "durationSec": 160
+          "id": "KDiFB02H_fQ",
+          "title": "Nick Hall - Hop On The Bus  • Toppop",
+          "durationSec": 164
         },
         {
           "id": "ezQ8dIDfsxk",
@@ -3300,9 +3290,9 @@
           "durationSec": 239
         },
         {
-          "id": "KDiFB02H_fQ",
-          "title": "Nick Hall - Hop On The Bus  • Toppop",
-          "durationSec": 164
+          "id": "AUmI9wkG7RM",
+          "title": "Donovan - Universal Soldier • TopPop",
+          "durationSec": 160
         },
         {
           "id": "xtjNhBJ3IKk",
@@ -3932,16 +3922,6 @@
       ]
     },
     {
-      "name": "TrailerSpot",
-      "videos": [
-        {
-          "id": "wz8tQ-M1Jrs",
-          "title": "HE MAN MASTERS OF THE UNIVERSE Extended Trailer (4K ULTRA HD) 2026",
-          "durationSec": 322
-        }
-      ]
-    },
-    {
       "name": "Veritasium",
       "videos": [
         {
@@ -4495,6 +4475,16 @@
           "durationSec": 289
         }
       ]
+    },
+    {
+      "name": "mai vàng .6 hiệp. bình định",
+      "videos": [
+        {
+          "id": "K4t2Osu1NIQ",
+          "title": "Gl ae 1 clump of apricot blossoms with pine-like foliage. 1 main trunk. Beautiful, large chrysant...",
+          "durationSec": 297
+        }
+      ]
     }
   ],
   "diagnostics": {
@@ -4503,9 +4493,9 @@
     "bookmarkletVersion": "2.0",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0",
     "counts": {
-      "renderers": 906,
-      "channels": 33,
-      "videos": 866,
+      "renderers": 902,
+      "channels": 32,
+      "videos": 865,
       "watched": 0,
       "unattributed": 0
     },
