@@ -2,31 +2,6 @@
   "v": "2.0",
   "channels": [
     {
-      "name": "8K Clarity",
-      "videos": [
-        {
-          "id": "KxMqSz8qVSg",
-          "title": "Animal Planet OLED Demo HDR 8K Ultra HD Dolby Vision™ 60fps",
-          "durationSec": 3862
-        }
-      ]
-    },
-    {
-      "name": "Arise News",
-      "videos": [
-        {
-          "id": "bPf_extj05E",
-          "title": "Peter Obi Is A Talk-And-Do Leader, His Record As Governor Proves It - Tanko",
-          "durationSec": 793
-        },
-        {
-          "id": "TFdhN5ew3DU",
-          "title": "2027: PDP, NDC, APM, Affirm Jonathan, Obi, Makinde as Presidential Candidates",
-          "durationSec": 1518
-        }
-      ]
-    },
-    {
       "name": "Astrum",
       "videos": [
         {
@@ -35,14 +10,14 @@
           "durationSec": 1511
         },
         {
-          "id": "NP9AKPeeHXs",
-          "title": "The Real Proof of Water on Mars",
-          "durationSec": 1948
-        },
-        {
           "id": "eCX9djgeYfo",
           "title": "Artemis 2's Deadly Discovery on the Moon",
           "durationSec": 1605
+        },
+        {
+          "id": "NP9AKPeeHXs",
+          "title": "The Real Proof of Water on Mars",
+          "durationSec": 1948
         },
         {
           "id": "32WWlEgkYBY",
@@ -542,16 +517,6 @@
       ]
     },
     {
-      "name": "Bammy Arena",
-      "videos": [
-        {
-          "id": "Qff-hllPOtI",
-          "title": "HIGHLIGHTS: NIGERIA Vs JAMAICA || UNITY CUP FINAL | Goals & Full Highlights",
-          "durationSec": 536
-        }
-      ]
-    },
-    {
       "name": "Branch Education",
       "videos": [
         {
@@ -793,21 +758,6 @@
           "id": "B7Dopv6kzJA",
           "title": "How does a camera work?",
           "durationSec": 860
-        }
-      ]
-    },
-    {
-      "name": "Channels Television",
-      "videos": [
-        {
-          "id": "B7GqZ3QylEs",
-          "title": "NDC, APGA, APM Candidates Emerge For 2027 General Elections",
-          "durationSec": 233
-        },
-        {
-          "id": "T4dCmc5kEu8",
-          "title": "Atiku Meets Hayatu-Deen Amid ADC Reconciliation Efforts",
-          "durationSec": 161
         }
       ]
     },
@@ -1442,58 +1392,13 @@
       ]
     },
     {
-      "name": "D Excellent",
-      "videos": [
-        {
-          "id": "sim9Q43cJt8",
-          "title": "Rufai d!sgracee Kenneth Okonkwo on live Tv (SHOCKING)",
-          "durationSec": 1309
-        }
-      ]
-    },
-    {
-      "name": "Daddy Deniro",
-      "videos": [
-        {
-          "id": "4WE7K1NRGFA",
-          "title": "When Celebrities Couldn't Handle Harrison Ford's ZERO Filter",
-          "durationSec": 1307
-        }
-      ]
-    },
-    {
-      "name": "Dele Farotimi",
-      "videos": [
-        {
-          "id": "FyIjHsRZqRk",
-          "title": "LOOKING BACK TO MOVE FORWARD",
-          "durationSec": 3485
-        }
-      ]
-    },
-    {
-      "name": "English with Lucy",
-      "videos": [
-        {
-          "id": "OVARWIFKZkw",
-          "title": "If you score over 80% (12/15) on this grammar test, your English is OUTSTANDING!",
-          "durationSec": 962
-        }
-      ]
-    },
-    {
-      "name": "FMJLegacyVEVO",
-      "videos": [
-        {
-          "id": "1rgELmO9Wvg",
-          "title": "『2023』Michael Jackson - HIStory On Film (Volume II) | FULL 4K MOVIE",
-          "durationSec": 6411
-        }
-      ]
-    },
-    {
       "name": "Insane Curiosity",
       "videos": [
+        {
+          "id": "QKESD9VZMw0",
+          "title": "How Self-Replicating Probes Willl Colonize Deep Space For Us",
+          "durationSec": 964
+        },
         {
           "id": "uZHzUUfKsS0",
           "title": "Why Is Space So Horribly Empty?",
@@ -1503,11 +1408,6 @@
           "id": "CUUBAxpPDUk",
           "title": "Why Do Venus And Uranus Spin In The Wrong Way? | 4K Documentary",
           "durationSec": 1697
-        },
-        {
-          "id": "qbCCSDBRAlE",
-          "title": "What's Directly Above And Below The Sun?",
-          "durationSec": 791
         },
         {
           "id": "KbgLWIXhrNQ",
@@ -1538,6 +1438,11 @@
           "id": "2r4dXArZDB4",
           "title": "Why Do Things Drop In From Above, But We Can't Escape?",
           "durationSec": 766
+        },
+        {
+          "id": "qbCCSDBRAlE",
+          "title": "What's Directly Above And Below The Sun?",
+          "durationSec": 791
         },
         {
           "id": "-mA0gyHIhJ0",
@@ -1988,11 +1893,6 @@
           "id": "1mr_p_q5Ztw",
           "title": "What Makes Every Planet In The Solar System So Dangerous To Explore? | 4K",
           "durationSec": 1236
-        },
-        {
-          "id": "xfuV3TPF7-E",
-          "title": "How NASA Is Actually Building a City on the Moon | 4K",
-          "durationSec": 1243
         },
         {
           "id": "C8vM3mMxmeY",
@@ -2637,26 +2537,6 @@
       ]
     },
     {
-      "name": "MAI VÀNG TRẦN CÔNG",
-      "videos": [
-        {
-          "id": "r28UeMbfBoc",
-          "title": "31-5-2026 ☎️0922.739.393 Ngan 🌳Yellow apricot bonsai - beautiful base - unique and rare tree - af...",
-          "durationSec": 903
-        }
-      ]
-    },
-    {
-      "name": "Mai Vàng Trường An",
-      "videos": [
-        {
-          "id": "B6S11prOOt0",
-          "title": "May 30, 2026 💥 Newest varieties of yellow apricot blossoms: Dai Hong Phat, Giao Cam Thien Loc, Gi...",
-          "durationSec": 1686
-        }
-      ]
-    },
-    {
       "name": "Mentour Now!",
       "videos": [
         {
@@ -3197,61 +3077,6 @@
       ]
     },
     {
-      "name": "Premium Times",
-      "videos": [
-        {
-          "id": "tMtpVcIgofg",
-          "title": "Tinubu has rescued Nigeria from the brink of collapse to a path of stability and recovery",
-          "durationSec": 116
-        }
-      ]
-    },
-    {
-      "name": "SUPREMACY SOUNDS",
-      "videos": [
-        {
-          "id": "-rS1yX64IZc",
-          "title": "70s & 80s Dance & Soul Hits | Non-Stop Disco, Funk & Pop Party Mix",
-          "durationSec": 7986
-        }
-      ]
-    },
-    {
-      "name": "SplashFM1055",
-      "videos": [
-        {
-          "id": "NIJ6zyGIc-A",
-          "title": "Watch Rabiu Kwankaso reactions as Peter Obi declares him Vice President for 2027 Election under NDC",
-          "durationSec": 521
-        }
-      ]
-    },
-    {
-      "name": "TV360 Nigeria",
-      "videos": [
-        {
-          "id": "cunL4_LQxto",
-          "title": "Kwara gov urges Tinubu to raise minimum wage from N70,000 to N100,000",
-          "durationSec": 396
-        }
-      ]
-    },
-    {
-      "name": "TVC News Nigeria",
-      "videos": [
-        {
-          "id": "aVWlwnfdZ0A",
-          "title": "Tinubu Orders Deployment Of 1,000 Forest Guards, Tactical Rescue Team To Oyo State",
-          "durationSec": 655
-        },
-        {
-          "id": "DwmPvb9yZmU",
-          "title": "Lagos Monthly Sanitation Exercise Records Massive Participation In Second Month",
-          "durationSec": 118
-        }
-      ]
-    },
-    {
       "name": "TopPop",
       "videos": [
         {
@@ -3260,9 +3085,9 @@
           "durationSec": 235
         },
         {
-          "id": "KDiFB02H_fQ",
-          "title": "Nick Hall - Hop On The Bus  • Toppop",
-          "durationSec": 164
+          "id": "AUmI9wkG7RM",
+          "title": "Donovan - Universal Soldier • TopPop",
+          "durationSec": 160
         },
         {
           "id": "ezQ8dIDfsxk",
@@ -3270,9 +3095,9 @@
           "durationSec": 239
         },
         {
-          "id": "AUmI9wkG7RM",
-          "title": "Donovan - Universal Soldier • TopPop",
-          "durationSec": 160
+          "id": "KDiFB02H_fQ",
+          "title": "Nick Hall - Hop On The Bus  • Toppop",
+          "durationSec": 164
         },
         {
           "id": "xtjNhBJ3IKk",
@@ -3902,16 +3727,6 @@
       ]
     },
     {
-      "name": "Tính Bonsai",
-      "videos": [
-        {
-          "id": "aPhS9tMnLb8",
-          "title": "Caring for and Maintaining Ochna Integerrima During This Period",
-          "durationSec": 422
-        }
-      ]
-    },
-    {
       "name": "Veritasium",
       "videos": [
         {
@@ -3930,11 +3745,6 @@
           "durationSec": 2464
         },
         {
-          "id": "axn1X-Kbs5g",
-          "title": "Looney Tunes | Classic Wile E. Coyote & Road Runner Mega Compilation | Vol. 9 | Warner Classics",
-          "durationSec": 2842
-        },
-        {
           "id": "wurbT0lbQ8E",
           "title": "Tom and Jerry | Mega Compilation Vol. 25 | Warner Classics",
           "durationSec": 2455
@@ -3943,6 +3753,11 @@
           "id": "ssrPJqLMcqE",
           "title": "Looney Tunes | Classic Foghorn Leghorn Mega Compilation | Vol. 5 | Warner Classics",
           "durationSec": 2150
+        },
+        {
+          "id": "axn1X-Kbs5g",
+          "title": "Looney Tunes | Classic Wile E. Coyote & Road Runner Mega Compilation | Vol. 9 | Warner Classics",
+          "durationSec": 2842
         },
         {
           "id": "iIL8626KWaA",
@@ -4465,26 +4280,6 @@
           "durationSec": 289
         }
       ]
-    },
-    {
-      "name": "Warner Bros. Singapore",
-      "videos": [
-        {
-          "id": "gZM4-g_N-VA",
-          "title": "SUPERGIRL | Official Trailer | In cinemas 24 June",
-          "durationSec": 173
-        }
-      ]
-    },
-    {
-      "name": "comedyspace.",
-      "videos": [
-        {
-          "id": "TMHk-W85De4",
-          "title": "Celebrities Didn't Know How To Act Around Michael Jackson",
-          "durationSec": 501
-        }
-      ]
     }
   ],
   "diagnostics": {
@@ -4493,9 +4288,9 @@
     "bookmarkletVersion": "2.0",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0",
     "counts": {
-      "renderers": 903,
-      "channels": 32,
-      "videos": 865,
+      "renderers": 853,
+      "channels": 13,
+      "videos": 843,
       "watched": 0,
       "unattributed": 0
     },
