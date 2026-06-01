@@ -2,8 +2,58 @@
   "v": "2.0",
   "channels": [
     {
+      "name": "80s Music Legends",
+      "videos": [
+        {
+          "id": "hYrbSCqAZuA",
+          "title": "Best of 80s Music Legends - Tears For Fears, Madonna, Cyndi Lauper, Modern Talking, Michael Jackson",
+          "durationSec": 4984
+        }
+      ]
+    },
+    {
+      "name": "Adeola Fayehun",
+      "videos": [
+        {
+          "id": "nAEDF94F_pE",
+          "title": "VDM vs Presidency; Tribute To Marvelous Cyril",
+          "durationSec": 948
+        }
+      ]
+    },
+    {
+      "name": "Arise News",
+      "videos": [
+        {
+          "id": "8ZBZhrpyL3c",
+          "title": "NDC Holds Presidential Affirmation Convention",
+          "durationSec": 5189
+        },
+        {
+          "id": "TFdhN5ew3DU",
+          "title": "2027: PDP, NDC, APM, Affirm Jonathan, Obi, Makinde as Presidential Candidates",
+          "durationSec": 1518
+        }
+      ]
+    },
+    {
+      "name": "Asad International Academy",
+      "videos": [
+        {
+          "id": "SsY95gSEe9c",
+          "title": "Solving a 'Stanford' University entrance exam | t=?",
+          "durationSec": 691
+        }
+      ]
+    },
+    {
       "name": "Astrum",
       "videos": [
+        {
+          "id": "ZTX64qW_LK0",
+          "title": "Why Polaris Is the Most Confusing Star in the Sky",
+          "durationSec": 1204
+        },
         {
           "id": "NP9AKPeeHXs",
           "title": "The Real Proof of Water on Mars",
@@ -253,11 +303,6 @@
           "id": "rL6uo5FRnKY",
           "title": "Black Holes Aren't the Weirdest Objects in Space",
           "durationSec": 3457
-        },
-        {
-          "id": "ZTX64qW_LK0",
-          "title": "Why Polaris Is the Most Confusing Star in the Sky",
-          "durationSec": 1204
         },
         {
           "id": "WsTuti1ezpc",
@@ -517,6 +562,26 @@
       ]
     },
     {
+      "name": "BBC News Africa",
+      "videos": [
+        {
+          "id": "xETIY9A4Vb4",
+          "title": "Surviving Biafra: Voices from the Nigerian Civil War - BBC Africa Eye Documentary",
+          "durationSec": 4486
+        }
+      ]
+    },
+    {
+      "name": "Binge Central",
+      "videos": [
+        {
+          "id": "OVr6YmqnrWs",
+          "title": "Nobody Breaks Celebrities Like Rowan Atkinson",
+          "durationSec": 536
+        }
+      ]
+    },
+    {
       "name": "Branch Education",
       "videos": [
         {
@@ -765,10 +830,9 @@
       "name": "Channels Television",
       "videos": [
         {
-          "id": "9A7Ch0ents4",
-          "title": "Exclusive Interview With APC National Chairman + More | Politics Today",
-          "durationSec": 3605,
-          "watched": true
+          "id": "T4dCmc5kEu8",
+          "title": "Atiku Meets Hayatu-Deen Amid ADC Reconciliation Efforts",
+          "durationSec": 161
         }
       ]
     },
@@ -1403,12 +1467,42 @@
       ]
     },
     {
-      "name": "Deep Look",
+      "name": "Dj Triple M",
       "videos": [
         {
-          "id": "IGtbHRPcSe8",
-          "title": "Spotted Lanternflies are The Ultimate Party Crashers",
-          "durationSec": 289
+          "id": "j_fLYxTJrtE",
+          "title": "SOUL MEGAMIX 2026| TRIPLE M| VIBES & CHILL 69 #SOULTOSOUL (BILLY OCEAN, MADONNA, ACE OF BASE,SPAGNA)",
+          "durationSec": 8716
+        }
+      ]
+    },
+    {
+      "name": "English with Lucy",
+      "videos": [
+        {
+          "id": "OVARWIFKZkw",
+          "title": "If you score over 80% (12/15) on this grammar test, your English is OUTSTANDING!",
+          "durationSec": 962
+        }
+      ]
+    },
+    {
+      "name": "Flavor Nostalgia",
+      "videos": [
+        {
+          "id": "CVM1bGiylio",
+          "title": "80s Timeless Hits Playlist | Iconic Songs That Defined the Decade",
+          "durationSec": 5093
+        }
+      ]
+    },
+    {
+      "name": "House of Highlights",
+      "videos": [
+        {
+          "id": "6k9UqACx1Cs",
+          "title": "USA vs Senegal - ALL GOALS & Highlights | FIFA International Friendly 2026",
+          "durationSec": 850
         }
       ]
     },
@@ -2571,94 +2665,24 @@
       "name": "PBS Space Time",
       "videos": [
         {
+          "id": "mPFFUWPXAFs",
+          "title": "Do We Live in the Rarest Solar System In The Universe? We're about to find out!",
+          "durationSec": 1402
+        },
+        {
           "id": "Wu8xNx4njoM",
           "title": "We Thought Black Holes Ended in Singularities. They Might End In a Frozen Big Bang.",
           "durationSec": 1013
         },
         {
-          "id": "HX1EfW3euY4",
-          "title": "Why The Multiverse Could Be Real",
-          "durationSec": 1219
-        },
-        {
-          "id": "HRqBGnSxzyI",
-          "title": "What If The Universe DID NOT Start With The Big Bang?",
-          "durationSec": 1104
-        },
-        {
-          "id": "SN8nTQiWOYY",
-          "title": "What If Space And Time Are NOT Real?",
-          "durationSec": 1562
-        },
-        {
-          "id": "KXPhaAsnrfs",
-          "title": "Does Infinity - Infinity = an Electron?",
-          "durationSec": 1032
-        },
-        {
-          "id": "Q6kJaMf3Lgo",
-          "title": "What If There's A Black Hole Inside The Sun? | Hawking Stars",
-          "durationSec": 1105
-        },
-        {
-          "id": "t_AMURAIcF0",
-          "title": "Black Holes. Explained. For 1.5 Hours.",
-          "durationSec": 5899
-        },
-        {
-          "id": "xRhsD-RQNHs",
-          "title": "At What Point Does Spacetime Become Quantum?",
-          "durationSec": 1238
-        },
-        {
-          "id": "SXg6YVcdOcA",
-          "title": "Why Time Flows Differently Between Galaxies",
-          "durationSec": 989
+          "id": "FMdrD_jcYgE",
+          "title": "We Found Galaxies Too Old for the Universe",
+          "durationSec": 1220
         },
         {
           "id": "qQmfXVE6W-I",
           "title": "Earth’s Core Should Be Impossible. A New State of Matter Explains It.",
           "durationSec": 1068
-        },
-        {
-          "id": "RCSSgxV9qNw",
-          "title": "Why Is 1/137 One of the Greatest Unsolved Problems In Physics?",
-          "durationSec": 938
-        },
-        {
-          "id": "G0Q4UAiKacw",
-          "title": "How the Higgs Mechanism Give Things Mass",
-          "durationSec": 1084
-        },
-        {
-          "id": "pGnMiGrYmPE",
-          "title": "Is Time Travel Impossible?",
-          "durationSec": 781
-        },
-        {
-          "id": "Ivye51d5Vis",
-          "title": "Is There Evidence For a Vast Multiverse?",
-          "durationSec": 1115
-        },
-        {
-          "id": "H6OmgXi1C-I",
-          "title": "Do We Need a NEW Dark Matter Model?",
-          "durationSec": 995
-        },
-        {
-          "id": "Z4DqSFrl92k",
-          "title": "The Universe Tried to Hide the Gravity Particle. Physicists Found a Loophole.",
-          "durationSec": 1116
-        },
-        {
-          "id": "y1px8hBl7zg",
-          "title": "What Makes The Strong Force Strong?",
-          "durationSec": 1297
-        },
-        {
-          "id": "FMdrD_jcYgE",
-          "title": "We Found Galaxies Too Old for the Universe",
-          "durationSec": 1220
         },
         {
           "id": "dZaqLgezRNE",
@@ -2681,6 +2705,11 @@
           "durationSec": 1255
         },
         {
+          "id": "Z4DqSFrl92k",
+          "title": "The Universe Tried to Hide the Gravity Particle. Physicists Found a Loophole.",
+          "durationSec": 1116
+        },
+        {
           "id": "4zgZ1hh3XtI",
           "title": "This Particle Solved Everything. We Just Found Out It Isn't Real",
           "durationSec": 1218
@@ -2691,14 +2720,14 @@
           "durationSec": 1220
         },
         {
+          "id": "t_AMURAIcF0",
+          "title": "Black Holes. Explained. For 1.5 Hours.",
+          "durationSec": 5899
+        },
+        {
           "id": "c-Q5r3THR3M",
           "title": "Heisenberg Made a Discovery in 1925. We Still Can't Explain It",
           "durationSec": 1635
-        },
-        {
-          "id": "mPFFUWPXAFs",
-          "title": "Do We Live in the Rarest Solar System In The Universe? We're about to find out!",
-          "durationSec": 1402
         },
         {
           "id": "e9xOMOTTW6U",
@@ -2721,9 +2750,24 @@
           "durationSec": 1275
         },
         {
+          "id": "xRhsD-RQNHs",
+          "title": "At What Point Does Spacetime Become Quantum?",
+          "durationSec": 1238
+        },
+        {
           "id": "HlNKj0K_3FY",
           "title": "The Most Important Satellite You’ve (Probably) Never Heard Of",
           "durationSec": 905
+        },
+        {
+          "id": "Ivye51d5Vis",
+          "title": "Is There Evidence For a Vast Multiverse?",
+          "durationSec": 1115
+        },
+        {
+          "id": "HX1EfW3euY4",
+          "title": "Why The Multiverse Could Be Real",
+          "durationSec": 1219
         },
         {
           "id": "7wZPaovDH50",
@@ -2791,9 +2835,19 @@
           "durationSec": 1139
         },
         {
+          "id": "SXg6YVcdOcA",
+          "title": "Why Time Flows Differently Between Galaxies",
+          "durationSec": 989
+        },
+        {
           "id": "wh75ubECL8I",
           "title": "How Many Black Holes Are In The Solar System?",
           "durationSec": 1267
+        },
+        {
+          "id": "KXPhaAsnrfs",
+          "title": "Does Infinity - Infinity = an Electron?",
+          "durationSec": 1032
         },
         {
           "id": "7XaJkE-ro2M",
@@ -2829,6 +2883,11 @@
           "id": "nn94mn8ozOI",
           "title": "What If The Cosmological Constant Is NOT Constant?",
           "durationSec": 1052
+        },
+        {
+          "id": "HRqBGnSxzyI",
+          "title": "What If The Universe DID NOT Start With The Big Bang?",
+          "durationSec": 1104
         },
         {
           "id": "x72uFHh3oek",
@@ -2951,6 +3010,11 @@
           "durationSec": 883
         },
         {
+          "id": "Q6kJaMf3Lgo",
+          "title": "What If There's A Black Hole Inside The Sun? | Hawking Stars",
+          "durationSec": 1105
+        },
+        {
           "id": "vyEWLhOfLgQ",
           "title": "What if Humans Are NOT Earth's First Civilization? | Silurian Hypothesis",
           "durationSec": 1214
@@ -3004,6 +3068,11 @@
           "id": "zUhOL38346Y",
           "title": "Did JWST Discover Dark Matter Stars?",
           "durationSec": 1117
+        },
+        {
+          "id": "H6OmgXi1C-I",
+          "title": "Do We Need a NEW Dark Matter Model?",
+          "durationSec": 995
         },
         {
           "id": "byN4S8WDPt8",
@@ -3076,6 +3145,11 @@
           "durationSec": 1002
         },
         {
+          "id": "SN8nTQiWOYY",
+          "title": "What If Space And Time Are NOT Real?",
+          "durationSec": 1562
+        },
+        {
           "id": "E8hyodMhbRw",
           "title": "How Does The Nucleus Hold Together?",
           "durationSec": 959
@@ -3118,12 +3192,107 @@
       ]
     },
     {
+      "name": "Pure Data Comparison",
+      "videos": [
+        {
+          "id": "SKh-2oq2x-A",
+          "title": "Real Heights of 300 Hollywood Actors - How Tall Are They Really?",
+          "durationSec": 1035
+        }
+      ]
+    },
+    {
+      "name": "Refresh Nigeria",
+      "videos": [
+        {
+          "id": "Gj2X9YUdilM",
+          "title": "Nigeria is DEAD FULL Video: Tinubu EXPOSED? Pastor of House on the Rock Church | 2027 Election",
+          "durationSec": 2794
+        }
+      ]
+    },
+    {
+      "name": "RetroPulse",
+      "videos": [
+        {
+          "id": "DbC6F9gBs_M",
+          "title": "He-Man Was Bigger Than Barbie. Then Mattel Made One Fatal Mistake",
+          "durationSec": 626
+        }
+      ]
+    },
+    {
+      "name": "SirMajesty Easyworld Science Channel",
+      "videos": [
+        {
+          "id": "c_Lkm-EhAWs",
+          "title": "WAEC 2026 Physics Theory leaks. Correct Answers Included. Very Real and Free for all. Revision class",
+          "durationSec": 6934
+        }
+      ]
+    },
+    {
+      "name": "SplashFM1055",
+      "videos": [
+        {
+          "id": "NIJ6zyGIc-A",
+          "title": "Watch Rabiu Kwankaso reactions as Peter Obi declares him Vice President for 2027 Election under NDC",
+          "durationSec": 521
+        }
+      ]
+    },
+    {
+      "name": "TV360 Nigeria",
+      "videos": [
+        {
+          "id": "cunL4_LQxto",
+          "title": "Kwara gov urges Tinubu to raise minimum wage from N70,000 to N100,000",
+          "durationSec": 396
+        }
+      ]
+    },
+    {
+      "name": "TVC News Nigeria",
+      "videos": [
+        {
+          "id": "TzOWaeXCHSI",
+          "title": "Third Anniversary: President Tinubu Urges Nigerians To Embrace Love, Unity",
+          "durationSec": 470
+        },
+        {
+          "id": "DwmPvb9yZmU",
+          "title": "Lagos Monthly Sanitation Exercise Records Massive Participation In Second Month",
+          "durationSec": 118
+        },
+        {
+          "id": "-1rBdWzho0w",
+          "title": "PDP Faction Ratifies Former Pres. Goodluck Jonathan As Presidential Candidate",
+          "durationSec": 211
+        }
+      ]
+    },
+    {
+      "name": "The Infographics Show",
+      "videos": [
+        {
+          "id": "4WyduoGpIPo",
+          "title": "You NEED to STOP Using Google Right Now",
+          "durationSec": 1017
+        }
+      ]
+    },
+    {
       "name": "TopPop",
       "videos": [
         {
           "id": "3eUsHZDDcZI",
           "title": "MUD - The Cat Crept In • TopPop",
           "durationSec": 235
+        },
+        {
+          "id": "AUmI9wkG7RM",
+          "title": "Donovan - Universal Soldier • TopPop",
+          "durationSec": 160
         },
         {
           "id": "ezQ8dIDfsxk",
@@ -3134,11 +3303,6 @@
           "id": "KDiFB02H_fQ",
           "title": "Nick Hall - Hop On The Bus  • Toppop",
           "durationSec": 164
-        },
-        {
-          "id": "AUmI9wkG7RM",
-          "title": "Donovan - Universal Soldier • TopPop",
-          "durationSec": 160
         },
         {
           "id": "xtjNhBJ3IKk",
@@ -3768,6 +3932,16 @@
       ]
     },
     {
+      "name": "TrailerSpot",
+      "videos": [
+        {
+          "id": "wz8tQ-M1Jrs",
+          "title": "HE MAN MASTERS OF THE UNIVERSE Extended Trailer (4K ULTRA HD) 2026",
+          "durationSec": 322
+        }
+      ]
+    },
+    {
       "name": "Veritasium",
       "videos": [
         {
@@ -4329,10 +4503,10 @@
     "bookmarkletVersion": "2.0",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0",
     "counts": {
-      "renderers": 873,
-      "channels": 15,
-      "videos": 849,
-      "watched": 1,
+      "renderers": 906,
+      "channels": 33,
+      "videos": 866,
+      "watched": 0,
       "unattributed": 0
     },
     "unattributedSamples": []
