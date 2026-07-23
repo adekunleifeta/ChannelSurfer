@@ -6,7 +6,7 @@
       "videos": [
         {
           "id": "3uZr6UF61-w",
-          "title": "An Epic Journey To The Andromeda Galaxy | Space Documentary 2026",
+          "title": "Journey to Andromeda: What We Found 2.5 Million Light-Years Away | Space Documentary 2026",
           "durationSec": 5272
         },
         {
@@ -53,21 +53,26 @@
           "id": "omUUQrvoYfw",
           "title": "Where Is Everything In The Universe Going? | Space Documentary 2025",
           "durationSec": 5154
-        },
-        {
-          "id": "bnvDdsKOWFk",
-          "title": "Is Time Travel Possible In Our Universe | Space Documentary 2025",
-          "durationSec": 4807
         }
       ]
     },
     {
-      "name": "Anambra1stSonTV",
+      "name": "Animagraffs",
       "videos": [
         {
-          "id": "4jZK9Zh5yA0",
-          "title": "Ekwulobia Flyover, Mall and Modern Bus Park All you need to know",
-          "durationSec": 1519
+          "id": "u1lU64CG8p8",
+          "title": "How a Helicopter Works (Bell 407)",
+          "durationSec": 3330
+        }
+      ]
+    },
+    {
+      "name": "Animated Math",
+      "videos": [
+        {
+          "id": "X-q2eZVhff8",
+          "title": "Nobody Explained the Schrödinger Equation Like THIS!",
+          "durationSec": 1604
         }
       ]
     },
@@ -75,15 +80,60 @@
       "name": "Arise News",
       "videos": [
         {
-          "id": "HeX7mKx0ZJI",
-          "title": "FG Files 10-Count Charge Against Three Alleged Kidnappers Of Oyo Schoolchildren, Teachers",
-          "durationSec": 1169
+          "id": "aA5rNeTaLSY",
+          "title": "ADC Demands Full Disclosure of N7.13 Trillion Energy Expenditure - Onyekpere",
+          "durationSec": 665
+        },
+        {
+          "id": "kQB9XQbhqzE",
+          "title": "GERMANY HAILS NIGERIA'S GROWING ENERGY ROLE",
+          "durationSec": 213
+        },
+        {
+          "id": "cQlphbWTTXg",
+          "title": "Trump Hails Tinubu + Alex Otti Defends Tinubu’s Reforms + Remi Tinubu Will Wear ‘Akwete’| OjyOkpe",
+          "durationSec": 3209
+        },
+        {
+          "id": "Lw5WBkl5toM",
+          "title": "Newspaper Review & World Brief: World Leaders Gather To Watch FIFA World Cup 2026 Final",
+          "durationSec": 519
+        }
+      ]
+    },
+    {
+      "name": "Art of the Problem",
+      "videos": [
+        {
+          "id": "cbD4NsZQKYw",
+          "title": "How Radio Works",
+          "durationSec": 691
+        }
+      ]
+    },
+    {
+      "name": "Asianometry",
+      "videos": [
+        {
+          "id": "vJP_oKN4Ez0",
+          "title": "Legends of the RISC Wars",
+          "durationSec": 2395
         }
       ]
     },
     {
       "name": "Astro Horizons",
       "videos": [
+        {
+          "id": "ig7hkQNKODY",
+          "title": "Are We Living Inside a Hologram?",
+          "durationSec": 7630
+        },
+        {
+          "id": "AhQkHvyTKms",
+          "title": "Collapsing Stars Created Something Terrifying - Human Consciousness",
+          "durationSec": 6147
+        },
         {
           "id": "uEV0nSi150U",
           "title": "Quantum Decoherence - The Solution to the Observer Paradox",
@@ -575,24 +625,9 @@
           "durationSec": 7738
         },
         {
-          "id": "6M7b2CZuJhI",
-          "title": "The Mysteries Surrounding the Milky Way Galaxy",
-          "durationSec": 8718
-        },
-        {
-          "id": "PN1FPXLBmW8",
-          "title": "What if We Are NOT The First Civilization on This Earth? Silurian Hypothesis",
-          "durationSec": 8338
-        },
-        {
           "id": "_hHuRJyOpIo",
           "title": "Could the Universe Be Inside a Black Hole? Evidence From 2025 Research",
           "durationSec": 1596
-        },
-        {
-          "id": "nXJuag7DjXY",
-          "title": "\"Why Is This Worrying Scientists?\" James Webb Telescope's Strange Find",
-          "durationSec": 7619
         }
       ]
     },
@@ -600,8 +635,13 @@
       "name": "Astrum",
       "videos": [
         {
+          "id": "1eEjHl3cM0E",
+          "title": "We Finally Know Where Saturn’s Rings Came From",
+          "durationSec": 1290
+        },
+        {
           "id": "uZtnz-XRzSc",
-          "title": "Something Bizarre Is Happening at the Sun's South Pole",
+          "title": "We Didn't Predict the Sun Would Do This",
           "durationSec": 1731
         },
         {
@@ -933,31 +973,16 @@
           "id": "7PI21DA16Hg",
           "title": "How an Asteroid Attack Made Life on Earth Possible",
           "durationSec": 1110
-        },
+        }
+      ]
+    },
+    {
+      "name": "BR7 Football",
+      "videos": [
         {
-          "id": "KnSrRKJCIgM",
-          "title": "The Real Story About JAXA's Mission to Asteroid Ryugu",
-          "durationSec": 1132
-        },
-        {
-          "id": "rKBaoB9aFFc",
-          "title": "SpaceX's Military Project It Doesn't Want You to Know About - Starshield",
-          "durationSec": 1838
-        },
-        {
-          "id": "mWTbw3-JYtY",
-          "title": "NASA's Lucy Discovered Something So Improbable, It Shouldn't Ever Happen",
-          "durationSec": 1027
-        },
-        {
-          "id": "9qIT9Oj14zA",
-          "title": "NASA Sent a Probe Inside the Sun's Atmosphere",
-          "durationSec": 5931
-        },
-        {
-          "id": "aOxaV5fNzMM",
-          "title": "This Crater on Tethys Proves It Survived the Impossible",
-          "durationSec": 1082
+          "id": "aYxAlbfPNoY",
+          "title": "Ronaldinho will never forget 17 Years Old Lionel Messi's performance in this match",
+          "durationSec": 1295
         }
       ]
     },
@@ -983,17 +1008,37 @@
           "id": "B2482h_TNwg",
           "title": "The $200M Machine that Prints Microchips:  The EUV Photolithography System",
           "durationSec": 2311
-        },
+        }
+      ]
+    },
+    {
+      "name": "Channels Television",
+      "videos": [
         {
-          "id": "_Pqfjer8-O4",
-          "title": "How do Transistors Build into a CPU?  🖥️🤔  How do Transistors Work? 🖥️🤔",
-          "durationSec": 1605
+          "id": "eK-IyAhWl24",
+          "title": "Dangote Fuel Sale In Dollar, Still On The PFIPC Scandal +More | Lunchtime Politics",
+          "durationSec": 1765
         }
       ]
     },
     {
       "name": "Classic Sounds 70s",
       "videos": [
+        {
+          "id": "iXBeQPpDfcg",
+          "title": "Dragon - Are You Old Enough (1978)",
+          "durationSec": 237
+        },
+        {
+          "id": "Vzxt-zMWwKY",
+          "title": "Axiom - My Baby's Gone (1971)",
+          "durationSec": 189
+        },
+        {
+          "id": "Qyiz1vbBSOE",
+          "title": "DRAGON - Still In Love With You (1978)",
+          "durationSec": 206
+        },
         {
           "id": "k1vNo_lgHBc",
           "title": "Bon Scott  1977",
@@ -1214,121 +1259,6 @@
           "id": "_M1JMOn0UB4",
           "title": "Yvonne Elliman - Love Me (1976)",
           "durationSec": 198
-        },
-        {
-          "id": "41CZDSINxww",
-          "title": "John Lennon - Stand By Me (1975)",
-          "durationSec": 233
-        },
-        {
-          "id": "aD714_LdV7Y",
-          "title": "John Lennon - Slippin' And Slidin' (1975)",
-          "durationSec": 163
-        },
-        {
-          "id": "2QGT9Euvrdw",
-          "title": "Henry Gross - Shannon (1976)",
-          "durationSec": 230
-        },
-        {
-          "id": "FaO0hkXXGVI",
-          "title": "Racey - Lay Your Love On Me (1978)",
-          "durationSec": 195
-        },
-        {
-          "id": "hZT48jSj1rQ",
-          "title": "Little River Band - Lady (Countdown 1978)",
-          "durationSec": 261
-        },
-        {
-          "id": "AapBnB_qZkk",
-          "title": "THE KNACK - Good Girls Don't  (1979)",
-          "durationSec": 185
-        },
-        {
-          "id": "ZI8mf1N9lrU",
-          "title": "Plastic Bertrand - Ca Plane Pour Moi (1977) HD",
-          "durationSec": 177
-        },
-        {
-          "id": "KcLT-fRJqaw",
-          "title": "Pilot - Magic (1975)",
-          "durationSec": 182
-        },
-        {
-          "id": "JAKgzlKG0OI",
-          "title": "Pilot - January (1975)",
-          "durationSec": 207
-        },
-        {
-          "id": "_nHM4ThVxIo",
-          "title": "Melissa Manchester - Through The Eyes Of Love (Theme from Ice Castles 1979)",
-          "durationSec": 252
-        },
-        {
-          "id": "O6GBmYLN7mg",
-          "title": "Johnny Thunders & The Heartbreakers - Chinese Rocks (1977)",
-          "durationSec": 171
-        },
-        {
-          "id": "1nTB8N238wU",
-          "title": "Johnny Cougar (Mellencamp) - I need a Lover (Live on Countdown 1978)",
-          "durationSec": 156
-        },
-        {
-          "id": "_qBX4T9RjPo",
-          "title": "Johnny Nash - I Can See Clearly Now (1972)",
-          "durationSec": 171
-        },
-        {
-          "id": "-saic7jx4Bs",
-          "title": "Pussycat - Wet Day In September (1978)",
-          "durationSec": 218
-        },
-        {
-          "id": "DBCAMJ-lGLw",
-          "title": "Boney M - Sunny (1977)",
-          "durationSec": 233
-        },
-        {
-          "id": "T2uSyOuDJMY",
-          "title": "Ritz - Locomotion (1979)",
-          "durationSec": 172
-        },
-        {
-          "id": "FM-PQ-1oh-M",
-          "title": "The Tourists - I Only Want To Be With You (1979) HD",
-          "durationSec": 142
-        },
-        {
-          "id": "eo-71yeIbfk",
-          "title": "Nazareth - Whatever You Want Babe (1979)",
-          "durationSec": 221
-        },
-        {
-          "id": "vefGc1PutVM",
-          "title": "Janis Ian -  Fly Too High (1979)",
-          "durationSec": 207
-        },
-        {
-          "id": "oagwQafY2Mw",
-          "title": "GEORGE BENSON - Love Ballad (1979)",
-          "durationSec": 227
-        },
-        {
-          "id": "YGUT5v1mScw",
-          "title": "Dan Hill - Sometimes When We Touch (1977)",
-          "durationSec": 234
-        },
-        {
-          "id": "p1pqk_yvP1E",
-          "title": "The Commodores - Still (1979)",
-          "durationSec": 219
-        },
-        {
-          "id": "gOE7bjpjakg",
-          "title": "Little River Band - Lonesome Loser (1979)",
-          "durationSec": 226
         }
       ]
     },
@@ -1498,12 +1428,197 @@
       ]
     },
     {
-      "name": "ComedyMX Entertainment",
+      "name": "Computer History Archives Project  (\"CHAP\")",
       "videos": [
         {
-          "id": "496aHytfSnw",
-          "title": "Looney Tunes - Compilation | Bugs Bunny, Porky Pig, Daffy Duck",
-          "durationSec": 13061
+          "id": "V5hVYZIcfyA",
+          "title": "Vintage Technology: Electronics--  BASIC RADIO CIRCUITRY, Learn How Radio Works, 1971 (History)",
+          "durationSec": 1064
+        },
+        {
+          "id": "sarR_cq3OgE",
+          "title": "IBM System/390 Computer History: How Little Rock Police optimized their IBM Mainframe  Client-Server",
+          "durationSec": 435
+        },
+        {
+          "id": "KT5HYfU2Mww",
+          "title": "Office Automation, REMINGTON RAND UNIVAC \"The TYPEWRITER in BUSINESS\" 1956 (computing Sperry Unisys)",
+          "durationSec": 1332
+        },
+        {
+          "id": "Oi_VEPn_MVI",
+          "title": "Computer History: DEC \"Components Group\" Digital Equipment 1978 Minicomputers PDP vintage promo VAX",
+          "durationSec": 172
+        },
+        {
+          "id": "oL-YhoEgaoA",
+          "title": "1992 IBM SYSTEM/390 MAINFRAME COMPUTER Security Software Multimedia hardware  magazine MVS/ESA",
+          "durationSec": 1461
+        },
+        {
+          "id": "dTtH71V6-Mc",
+          "title": "NYNEX Cell Phones- 1995 -Behind the Scenes!  What Happened? (AT&T Verizon Mobile Motorola New York)",
+          "durationSec": 621
+        },
+        {
+          "id": "gialAvozw4E",
+          "title": "Computer History -TOSHIBA SATELLITE Laptop what happened? Restored training film 1994 Sharp Dynabook",
+          "durationSec": 678
+        },
+        {
+          "id": "3QLvzeZpN8o",
+          "title": "Rare 1941 film: Pre-Computer Calculating & Accounting Machines & IBM 416 punch card tabulator of WW2",
+          "durationSec": 741
+        },
+        {
+          "id": "WedkbWSyT9w",
+          "title": "UNIVAC Computer History: Twin Cities Factory Tour restored 1968 film mainframe \"Electronic Servants\"",
+          "durationSec": 1456
+        },
+        {
+          "id": "KqHGlmW_oas",
+          "title": "Computer History: CDC 6600 SuperComputer CONTROL DATA CORPORATION CERN Seymour Cray 1965 Electronics",
+          "durationSec": 337
+        },
+        {
+          "id": "wYW-vv6nLcI",
+          "title": "Vintage Radio Receivers Typical Principles and Circuits (1942) Superheterodyne, Tubes, Training Film",
+          "durationSec": 1031
+        },
+        {
+          "id": "vQ-hj6rgAP4",
+          "title": "1962 Digital Computer Techniques: How Computers Work, IBM, Core Memory Storage, Mag Tape, Disc, Card",
+          "durationSec": 1459
+        },
+        {
+          "id": "JnAJ2fgFjFE",
+          "title": "Sperry UNIVAC FACTORY TOUR 1975- Clearwater Florida NAVY AN/UYK-20 - Improved Video Computer History",
+          "durationSec": 987
+        },
+        {
+          "id": "1htNPhkIH3I",
+          "title": "Rare UNIVAC 5x7 Circuit Boards 1960s 70s mainframe computer (Gold 1108 PCB DIP dual inline package)",
+          "durationSec": 742
+        },
+        {
+          "id": "lPiXi7CUNU4",
+          "title": "Computer History ENIAC: Starting up the ENIAC!  7 STEPS TO POWER ON THE SYSTEM Eckert-Mauchly 1946",
+          "durationSec": 376
+        },
+        {
+          "id": "l381_ho8KR8",
+          "title": "Mr. Wizard 1963 demo IBM COMPUTER SINGS \"Daisy Bell\" Tektronix Oscilloscope Science Noise, 704 7090",
+          "durationSec": 1827
+        },
+        {
+          "id": "gVDEMpYAYZM",
+          "title": "GM Auto Computer Testing, General Motors Car Design Safety 1985 Electronics Design Diagnostics 1980s",
+          "durationSec": 840
+        },
+        {
+          "id": "GygR1Nbrhfc",
+          "title": "Rare Computer Film: WHAT HAPPENED TO RCA's LAST COMPUTERS?  IBM/370, Sperry Univac, Spectra 1970-71",
+          "durationSec": 1937
+        },
+        {
+          "id": "Tysq87xuazE",
+          "title": "1961 IBM's SELECTRIC Typewriter Professional Typing Tips Office Automation, early Word Processing",
+          "durationSec": 627
+        },
+        {
+          "id": "T9yFubSufck",
+          "title": "1966 Using the LEO III Computer, UK Computing History:  A FILM RESTORATION 4k Color British Lyons",
+          "durationSec": 1295
+        },
+        {
+          "id": "CPz4LnG4A64",
+          "title": "Restored Film 1974 UNDERGROUND ELECTRICAL POWER DISTRIBUTION, transformers electricity, circuits",
+          "durationSec": 1151
+        },
+        {
+          "id": "IEkGOVs7wqw",
+          "title": "Restored 1963 Film: Automation, Computing, Manufacturing 1964, Autos, Steel, Electronics, TV, Phones",
+          "durationSec": 841
+        },
+        {
+          "id": "qMN7k5lr0EM",
+          "title": "Early Computers of HONEYWELL 800, 200, DATAmatic, GE, Xerox, 3C, DDP mini, Mainframe, 1960s NASA",
+          "durationSec": 934
+        },
+        {
+          "id": "1woUiE02mQI",
+          "title": "UK London England: Telephone Telecommunications 1979 British computer terminals Monitoring Baseband",
+          "durationSec": 1177
+        },
+        {
+          "id": "tumq-PnbAK0",
+          "title": "Apple Macintosh Installing SIMMs HOW TO GUIDE 1990 (motherboard memory) SE SE/30 Plus vhs",
+          "durationSec": 1094
+        },
+        {
+          "id": "rl5m7PRQmPc",
+          "title": "VINTAGE SONY ELECTRONICS TV Radio Music Technology 1960 1970-80 Walkman transistor history computer",
+          "durationSec": 339
+        },
+        {
+          "id": "zgE4F0wx94s",
+          "title": "Revisit RCA's GIANT Computers 501; How they Made PCB Circuit Card Logic Boards 1958 (Spectra Univac)",
+          "durationSec": 611
+        },
+        {
+          "id": "O0Fy5xEXq8I",
+          "title": "General Electric Electrical Transformer Reliability Testing 1970, Data Processing, GE Computer 235",
+          "durationSec": 899
+        },
+        {
+          "id": "sKwpNPhL0I4",
+          "title": "SUBMARINE CONTROL SIMULATOR: Lafayette SSBN-616 Navy Ballistic Training Honeywell 800 Computer 1961",
+          "durationSec": 734
+        },
+        {
+          "id": "-6vRUd-bzfQ",
+          "title": "DEC PDP Computer History ASTRODATA TELESWITCHER Communications Telecom Telex ITT RCA 1971 automation",
+          "durationSec": 526
+        },
+        {
+          "id": "Slv0VIX0g4I",
+          "title": "Vintage Amateur Radio (ham):  How to Use your YAESU FT-1000MP series HF radio transceiver 1995",
+          "durationSec": 1587
+        },
+        {
+          "id": "xW9GludnyT0",
+          "title": "What Happened to STAR TREK: The EXPERIENCE?  Lost Footage Found! 1998 Stars React Day 1 Vegas, STLV",
+          "durationSec": 308
+        },
+        {
+          "id": "gZOu8RTlg8w",
+          "title": "IBM AS/400 ADVANCED SERIES  \"The Beauty of it.\"  1994 TV Ad mini computer eServer iSeries System I P",
+          "durationSec": 493
+        },
+        {
+          "id": "k8Bxrmu8J1Q",
+          "title": "LEAR Before LearJet Rare 1959 Factory Tour Aircraft Radio Navigation System Autopilot manufacturing",
+          "durationSec": 1544
+        },
+        {
+          "id": "tWuusdmiusc",
+          "title": "1967 Computer Revolution: Walter Cronkite documentary predictions data centers thinking machines AI?",
+          "durationSec": 1379
+        },
+        {
+          "id": "1YbOE6ln1G8",
+          "title": "1972 John Deere Computer Automation Order System FLASH on IBM System/360 65 mainframe original promo",
+          "durationSec": 431
+        }
+      ]
+    },
+    {
+      "name": "Concerning Reality",
+      "videos": [
+        {
+          "id": "drLxfjqZHVo",
+          "title": "How do Radios Work?",
+          "durationSec": 581
         }
       ]
     },
@@ -1679,61 +1794,36 @@
           "id": "is8mv8_Dmwk",
           "title": "Scientists Found a Miracle Drug... in DIRT?!",
           "durationSec": 753
-        },
-        {
-          "id": "EzlkOBllzI4",
-          "title": "Who Were the First Americans? | Breakthrough: Earliest Americans",
-          "durationSec": 394
-        },
-        {
-          "id": "HotJpb15nhM",
-          "title": "Explosion in Space. Hours to Save the Crew | Bright Now: Crisis On Apollo 13",
-          "durationSec": 789
-        },
-        {
-          "id": "18CRenI8XUM",
-          "title": "No Grass, No Civilization? How One Simple Plant Changed Everything | Curiosity Stream",
-          "durationSec": 475
-        },
-        {
-          "id": "AJqYCyMCzl0",
-          "title": "Everything’s bigger in Texas... especially high school football. | Curiosity Stream",
-          "durationSec": 717
-        },
-        {
-          "id": "d1GOpjYUUiw",
-          "title": "She thought it was love. It was Cold War espionage | Traitor/Patriot",
-          "durationSec": 977
         }
       ]
     },
     {
-      "name": "Golden Rewind 1960s",
+      "name": "DC",
       "videos": [
         {
-          "id": "0NmomOzbRuc",
-          "title": "15 Beloved Coming to America Actors Who Tragically Passed Away",
-          "durationSec": 1830
+          "id": "OGO4Mqvo3jI",
+          "title": "Clayface | Official Trailer",
+          "durationSec": 146
         }
       ]
     },
     {
-      "name": "Holic Unknowns",
+      "name": "European Space Agency, ESA",
       "videos": [
         {
-          "id": "le4PQAxjz7g",
-          "title": "Don't throw away your laptop charger until you know this! You'll be shocked",
-          "durationSec": 912
+          "id": "lFiOZqyymUY",
+          "title": "Journeying through stunning cosmic views with James Webb Space Telescope",
+          "durationSec": 2606
         }
       ]
     },
     {
-      "name": "Independent Television",
+      "name": "Free Documentary",
       "videos": [
         {
-          "id": "cZff06Ek2cQ",
-          "title": "ITV LIVE STREAM",
-          "durationSec": 1891
+          "id": "Yutzg2NLwcU",
+          "title": "Giant Aircraft: Manufacturing an Airbus A350 | Mega Manufacturing | Free Documentary",
+          "durationSec": 2894
         }
       ]
     },
@@ -1741,14 +1831,29 @@
       "name": "Insane Curiosity",
       "videos": [
         {
-          "id": "u5gZcIAfDDo",
-          "title": "Every Rare Cosmic Event You'll See in Your Lifetime",
-          "durationSec": 1106
+          "id": "aSKrJYl4Te8",
+          "title": "The Cascadia Fault Is Falling Apart, And That's Not All Bad News",
+          "durationSec": 868
         },
         {
           "id": "Jq51Fa5b9To",
           "title": "What The Greenland Tipping Point Will Do To Earth By 2030",
           "durationSec": 942
+        },
+        {
+          "id": "4WhUIVv0XxY",
+          "title": "USA Has the Same Fault That Just Struck Mexico",
+          "durationSec": 877
+        },
+        {
+          "id": "H5lgVNpIt1M",
+          "title": "Why The Boötes Void Is The Most Disturbing Anomaly In The Universe",
+          "durationSec": 1275
+        },
+        {
+          "id": "u5gZcIAfDDo",
+          "title": "Every Rare Cosmic Event You'll See in Your Lifetime",
+          "durationSec": 1106
         },
         {
           "id": "QrUMJ6LYllk",
@@ -2226,24 +2331,49 @@
           "durationSec": 3880
         },
         {
-          "id": "IcupEqVsb5g",
-          "title": "How Humans Might One Day Live On Venus",
-          "durationSec": 945
-        },
-        {
-          "id": "BbTKLp34ShE",
-          "title": "The Strangest Secrets Of Every Planet in the Solar System | 4K",
-          "durationSec": 11912
-        },
-        {
-          "id": "firRqnK3eZM",
-          "title": "How Long To Reach Io, The Solar System's Most Dangerous Moon?",
-          "durationSec": 875
-        },
-        {
           "id": "-uv9_Fg0AOI",
           "title": "The Universe is WEIRDER Than You Think - Other 10 Facts",
           "durationSec": 1086
+        }
+      ]
+    },
+    {
+      "name": "Jess Analysis",
+      "videos": [
+        {
+          "id": "VC6C6ujte14",
+          "title": "Radio Electronics Engineering in 3 minutes!",
+          "durationSec": 194
+        }
+      ]
+    },
+    {
+      "name": "Jost",
+      "videos": [
+        {
+          "id": "SZKJpMslWcM",
+          "title": "How Long Would It Take Us to Travel One Light-Year?",
+          "durationSec": 635
+        }
+      ]
+    },
+    {
+      "name": "Keysight Labs",
+      "videos": [
+        {
+          "id": "xZlpOXjaxTI",
+          "title": "Intro to RF - EEs Talk Tech Electrical Engineering Podcast #21",
+          "durationSec": 1396
+        }
+      ]
+    },
+    {
+      "name": "KinoCheck.com",
+      "videos": [
+        {
+          "id": "rmx7CYtSr1c",
+          "title": "THE BEST UPCOMING MOVIES 2026 (Trailers)",
+          "durationSec": 2473
         }
       ]
     },
@@ -2294,17 +2424,27 @@
           "id": "vbZKydfBUUI",
           "title": "The Life of Stars. From Birth to Death | Space Documentary 2025",
           "durationSec": 4601
-        },
+        }
+      ]
+    },
+    {
+      "name": "MIT OpenCourseWare",
+      "videos": [
         {
-          "id": "zHwSuFtJR84",
-          "title": "A Journey to the Edge of the Solar System",
-          "durationSec": 3965
+          "id": "f7oXhDatwtY",
+          "title": "Lecture 1: Introduction to Power Electronics",
+          "durationSec": 2602
         }
       ]
     },
     {
       "name": "Macrocosm",
       "videos": [
+        {
+          "id": "U2QCUs30zvM",
+          "title": "Jupiter is Not a Planet. It's a Failed Star. And It Almost Destroyed Us.",
+          "durationSec": 474
+        },
         {
           "id": "8ObEWyt-66M",
           "title": "The First Alien Visitor Just Left Our Solar System. We Never Figured It Out.",
@@ -2480,6 +2620,31 @@
     {
       "name": "Magnetic Space",
       "videos": [
+        {
+          "id": "TUR9nJ85APs",
+          "title": "Every atom in your body was forged billions of years before Earth existed",
+          "durationSec": 13294
+        },
+        {
+          "id": "kTf_IK6oCoI",
+          "title": "8 Most Terrifying Worlds in Our Solar System | 1,000 MPH Winds and  -400°F Ice Giants",
+          "durationSec": 17410
+        },
+        {
+          "id": "u1yCcguiv8A",
+          "title": "10 Paradoxes That Break Reality | Mind Bending Mysteries of an Infinite Universe",
+          "durationSec": 16275
+        },
+        {
+          "id": "vWz8ZNSQewM",
+          "title": "Our Fascinating Universe - A Journey Through the Marvelous 200 Billion Galaxies",
+          "durationSec": 13549
+        },
+        {
+          "id": "gfJsNbTHScQ",
+          "title": "How Gravity and Dark Matter Built The Universe From Nothing? | 200 Billion Galaxies",
+          "durationSec": 13051
+        },
         {
           "id": "2Tcj6tTyFz0",
           "title": "The Most Terrifying Things in Space | The Universe is Stranger than We Imagine",
@@ -2863,22 +3028,32 @@
       ]
     },
     {
-      "name": "Mellow Muse",
-      "videos": [
-        {
-          "id": "gMDNL8cP4Yc",
-          "title": "Midnight R&B Soul | Slow Love Songs, Warm Lights & Deep Feelings",
-          "durationSec": 13733
-        }
-      ]
-    },
-    {
       "name": "Mentour Now!",
       "videos": [
         {
           "id": "n_A-ohq9ZDE",
           "title": "WHAT Actually Grounded the Global Airbus A320 Fleet?!",
           "durationSec": 1579
+        }
+      ]
+    },
+    {
+      "name": "NXP Developer Zone",
+      "videos": [
+        {
+          "id": "FVmTooGICNc",
+          "title": "What is RF?  Basic Training and Fundamental Properties",
+          "durationSec": 793
+        }
+      ]
+    },
+    {
+      "name": "Nerd's lesson",
+      "videos": [
+        {
+          "id": "nb4ovfwqup8",
+          "title": "Basic Electronics Part 1",
+          "durationSec": 38938
         }
       ]
     },
@@ -2974,11 +3149,16 @@
           "id": "yUrbMj89ZmI",
           "title": "The Science Of Engine Oils",
           "durationSec": 1424
-        },
+        }
+      ]
+    },
+    {
+      "name": "NullSpace",
+      "videos": [
         {
-          "id": "VxUE_C99PAw",
-          "title": "The Tool That Changed The World",
-          "durationSec": 1307
+          "id": "hh7wfElw4g0",
+          "title": "VOYAGER 1: The Story of the Next 10 Trillion Years | 4K",
+          "durationSec": 1367
         }
       ]
     },
@@ -3114,16 +3294,26 @@
           "id": "7wZPaovDH50",
           "title": "Why Is All DNA Right Handed?",
           "durationSec": 1218
-        },
+        }
+      ]
+    },
+    {
+      "name": "Popcornflix",
+      "videos": [
         {
-          "id": "U-B1MpTQfJQ",
-          "title": "Are The Fundamental Constants Finely Tuned? | The Naturalness Problem",
-          "durationSec": 1207
-        },
+          "id": "VwdoA0_t2vI",
+          "title": "The Odyssey | PART 1 of 2 | FULL MOVIE | Action, Adventure",
+          "durationSec": 5475
+        }
+      ]
+    },
+    {
+      "name": "RF Get Down",
+      "videos": [
         {
-          "id": "cY6Y4lE3LTo",
-          "title": "The Crisis In Physics: Are We Missing 17 Layers of Reality?",
-          "durationSec": 1213
+          "id": "A9SNdF7UP18",
+          "title": "#78: RF & Microwave Engineering: An Introduction for Students",
+          "durationSec": 1554
         }
       ]
     },
@@ -3131,9 +3321,24 @@
       "name": "Science Channel",
       "videos": [
         {
-          "id": "I74M3tI1u9s",
-          "title": "Discovering New Dimensions | Through the Wormhole | Science Channel",
-          "durationSec": 3627
+          "id": "GSBN4ctRwoI",
+          "title": "The Universe's SECRET Weapons and How they Affect Earth! | How the Universe Works | Science Channel",
+          "durationSec": 3170
+        },
+        {
+          "id": "GcbqPuCOTrE",
+          "title": "Everything About The Sun ☀️ Science Channel",
+          "durationSec": 3699
+        },
+        {
+          "id": "_N1bGe9CwKY",
+          "title": "Superhuman Toddler!? The Video That Stunned Scientists | Strange Evidence | Science Channel",
+          "durationSec": 484
+        },
+        {
+          "id": "NMitdpVNh_U",
+          "title": "The Most Popular Segments! | How It's Made | Science Channel",
+          "durationSec": 3643
         },
         {
           "id": "LdKHYSjy8w0",
@@ -3154,11 +3359,6 @@
           "id": "TD0P5NHp480",
           "title": "Strange Creature Found 5000 Feet Deep!? | Strange Evidence | Science Channel",
           "durationSec": 632
-        },
-        {
-          "id": "GSBN4ctRwoI",
-          "title": "The Universe's SECRET Weapons and How they Affect Earth! | How the Universe Works | Science Channel",
-          "durationSec": 3170
         },
         {
           "id": "QGWtWd5grm0",
@@ -3431,6 +3631,11 @@
           "durationSec": 632
         },
         {
+          "id": "I74M3tI1u9s",
+          "title": "Discovering New Dimensions | Through the Wormhole | Science Channel",
+          "durationSec": 3627
+        },
+        {
           "id": "qZwXoQCN064",
           "title": "Everything About Earth 🌍 | How the Universe Works | Science Channel",
           "durationSec": 3997
@@ -3614,21 +3819,6 @@
           "id": "s3OG3E127M8",
           "title": "How Gloves Are Made! 🧤 | How It's Made | Science Channel",
           "durationSec": 1214
-        },
-        {
-          "id": "aM3EHVKQRRc",
-          "title": "Earth and Venus: Space's Nightmare Couple! | How the Universe Works | Science Channel",
-          "durationSec": 527
-        },
-        {
-          "id": "-PX0CtMF7ko",
-          "title": "Dark Matter and Dark Energy | How the Universe Works | Science Channel",
-          "durationSec": 3794
-        },
-        {
-          "id": "7rUXHSOhxgU",
-          "title": "Is This North Carolina Ghost Town Truly Cursed?! | Mysteries of the Abandoned | Science Channel",
-          "durationSec": 627
         }
       ]
     },
@@ -3650,6 +3840,11 @@
     {
       "name": "Space Matters",
       "videos": [
+        {
+          "id": "ho8zrc8IIwQ",
+          "title": "The Most Disturbing Space Events We'll Actually See Before We Die",
+          "durationSec": 1103
+        },
         {
           "id": "g33Hi2wUTyI",
           "title": "The Most Terrifying Places in the Universe",
@@ -3869,41 +4064,6 @@
           "id": "799CcUxQxmM",
           "title": "Fermi Paradox Finally Solved, And It’s Not Good",
           "durationSec": 1236
-        },
-        {
-          "id": "JK_v2oKGkBI",
-          "title": "Everything We Knew About Pluto Was Wrong",
-          "durationSec": 1592
-        },
-        {
-          "id": "5hiuYjcRVGY",
-          "title": "CHINA'S SHOCKING Moon Discovery Revealed",
-          "durationSec": 1434
-        },
-        {
-          "id": "MysMrfSVj84",
-          "title": "The Most Horrific Death In Universe",
-          "durationSec": 1322
-        },
-        {
-          "id": "vtW5iF1g0M0",
-          "title": "The DAY the Dinosaurs DIED",
-          "durationSec": 1766
-        },
-        {
-          "id": "veGUIIXhSus",
-          "title": "Earth 2.0 IS Closer Than You Think!",
-          "durationSec": 1545
-        }
-      ]
-    },
-    {
-      "name": "SylentEcho",
-      "videos": [
-        {
-          "id": "SRatjWiWzAs",
-          "title": "You forgot THIS kind of Cartoon Network Existed | | 1993 / 1994 Broadcast stream",
-          "durationSec": 6264
         }
       ]
     },
@@ -3911,20 +4071,40 @@
       "name": "TVC News Nigeria",
       "videos": [
         {
-          "id": "mN1PYNqXDdA",
-          "title": "Flashback: Gov Makinde Assures Oriire Victims Of Continued Medical, Psychological Support",
-          "durationSec": 926
-        },
+          "id": "iF0ZLe8Uxu0",
+          "title": "We Stand With Nigeria To Confront Violent Extremism - Trump",
+          "durationSec": 156
+        }
+      ]
+    },
+    {
+      "name": "The Broadcast Engineer",
+      "videos": [
         {
-          "id": "zsrdvx5dkqs",
-          "title": "Oriire Rescue | IGP Tunji Disu Honours Police Operatives, Commends Role Played",
-          "durationSec": 109
+          "id": "0GWhQCDqo98",
+          "title": "Get Ready to Become a Broadcast Engineer - What You Need to Know in less than 15 Minutes!",
+          "durationSec": 893
+        }
+      ]
+    },
+    {
+      "name": "The Engineering Mindset",
+      "videos": [
+        {
+          "id": "AwRJsze_9m4",
+          "title": "MOSFET Explained - How MOSFET Works",
+          "durationSec": 1214
         }
       ]
     },
     {
       "name": "TopPop",
       "videos": [
+        {
+          "id": "hdUEMBcYFrY",
+          "title": "Sandy Posey - All I Have To Do Is Dream / Be My Baby / I Will Follow Him • TopPop",
+          "durationSec": 242
+        },
         {
           "id": "vFKAoLopqqk",
           "title": "Oscar Harris - Disco Calypso (Live) • TopPop",
@@ -4419,21 +4599,6 @@
           "id": "eA5nsVWuuNE",
           "title": "Peter Tosh - Buk-in-hamm Palace • Toppop",
           "durationSec": 212
-        },
-        {
-          "id": "kGNShg0ah3w",
-          "title": "Jay & the Americans - Cara Mia • Toppop",
-          "durationSec": 152
-        }
-      ]
-    },
-    {
-      "name": "Total Track",
-      "videos": [
-        {
-          "id": "pqfz1S4eH8I",
-          "title": "Omg! Nigeria Sprint queen destroyed Usa moments at the finishing line",
-          "durationSec": 483
         }
       ]
     },
@@ -4452,7 +4617,7 @@
       "videos": [
         {
           "id": "GK2pZ_oVU1o",
-          "title": "Why is This the Scariest Chart in Electrical Engineering?",
+          "title": "The Scariest Chart in Electrical Engineering",
           "durationSec": 2384
         },
         {
@@ -4552,7 +4717,7 @@
         },
         {
           "id": "Y-W-w8yNiKU",
-          "title": "The Most Beautiful Equation In Physics",
+          "title": "Why is there antimatter?",
           "durationSec": 2123
         },
         {
@@ -4609,16 +4774,6 @@
           "id": "KZeIEiBrT_w",
           "title": "The Strange Math That Predicts (Almost) Anything",
           "durationSec": 1952
-        },
-        {
-          "id": "-QTkPfq7w1A",
-          "title": "This mechanism shrinks when pulled",
-          "durationSec": 1387
-        },
-        {
-          "id": "x32Zq-XvID4",
-          "title": "The Obviously True Theorem No One Can Prove",
-          "durationSec": 2554
         }
       ]
     },
@@ -4627,18 +4782,23 @@
       "videos": [
         {
           "id": "U-noH_hzCQ0",
-          "title": "Looney Tunes | Tweety & Sylvester 1 Hour Compilation | Vol. 8 | Warner Classics",
+          "title": "Looney Tunes | 1 Hour Tweety & Sylvester Compilation | Vol. 8 | Warner Classics",
           "durationSec": 3620
         },
         {
-          "id": "8qI4zOL2co8",
-          "title": "Looney Tunes | Ralph Wolf and Sam Sheepdog Full Episodes Compilation | Warner Classics",
-          "durationSec": 2502
+          "id": "OBMBUks8zCE",
+          "title": "Tom and Jerry | Spike The Bulldog Mega Compilation | Full Episodes | Warner Classics",
+          "durationSec": 2625
         },
         {
           "id": "mkPLXTXY2WY",
           "title": "Tom and Jerry | Full Episodes Mega Compilation | Vol. 31 | Warner Classics",
           "durationSec": 2453
+        },
+        {
+          "id": "8qI4zOL2co8",
+          "title": "Looney Tunes | Ralph Wolf and Sam Sheepdog Full Episodes Compilation | Warner Classics",
+          "durationSec": 2502
         },
         {
           "id": "SAaUjt0N-tA",
@@ -5120,11 +5280,6 @@
           "id": "U0TscWPa4yg",
           "title": "The Spirit of St. Louis | Lindy's Barnstorming Days | Warner Classics",
           "durationSec": 498
-        },
-        {
-          "id": "iiSuyY00nfE",
-          "title": "The Man Who Loved Cat Dancing | The Great Train Robbery | Warner Classics",
-          "durationSec": 475
         }
       ]
     },
@@ -5169,6 +5324,16 @@
       ]
     },
     {
+      "name": "Zach Star",
+      "videos": [
+        {
+          "id": "pXWbdxOAuDs",
+          "title": "The scariest thing you learn in Electrical Engineering | The Smith Chart",
+          "durationSec": 542
+        }
+      ]
+    },
+    {
       "name": "fern",
       "videos": [
         {
@@ -5185,9 +5350,9 @@
     "bookmarkletVersion": "2.4",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 OPR/133.0.0.0",
     "counts": {
-      "renderers": 1047,
-      "channels": 34,
-      "videos": 1001,
+      "renderers": 1061,
+      "channels": 50,
+      "videos": 1018,
       "watched": 2,
       "unattributed": 0
     },
