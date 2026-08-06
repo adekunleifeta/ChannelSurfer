@@ -2,62 +2,6 @@
   "v": "2.4",
   "channels": [
     {
-      "name": "Abide By Reason",
-      "videos": [
-        {
-          "id": "P9gG6GMOzYo",
-          "title": "How 𝑒 Was Discovered",
-          "durationSec": 1276,
-          "watched": true
-        },
-        {
-          "id": "99S0QA-Bji8",
-          "title": "How 𝑉 = 𝐼𝑅 Was Discovered",
-          "durationSec": 937
-        },
-        {
-          "id": "11QvV18JGQM",
-          "title": "How Divergence and Curl Were Discovered",
-          "durationSec": 1291
-        },
-        {
-          "id": "-hua8RWopfw",
-          "title": "How Maxwell's Equations Were Discovered",
-          "durationSec": 1316
-        },
-        {
-          "id": "triNEat764M",
-          "title": "How to Understand Compactness",
-          "durationSec": 1057
-        },
-        {
-          "id": "gOBzSGwfmyU",
-          "title": "How von Neumann Discovered Quantum Mechanics",
-          "durationSec": 915
-        },
-        {
-          "id": "mmPqMwt18Hc",
-          "title": "The Weirdest Rule in Physics",
-          "durationSec": 1331
-        },
-        {
-          "id": "BcNHTv7Rw3c",
-          "title": "How Heisenberg Discovered Quantum Mechanics",
-          "durationSec": 1576
-        }
-      ]
-    },
-    {
-      "name": "Academic Lesson",
-      "videos": [
-        {
-          "id": "hyctIDPRSqY",
-          "title": "Quantum Physics Full Course | Quantum Mechanics Course",
-          "durationSec": 42165
-        }
-      ]
-    },
-    {
       "name": "Actual Space",
       "videos": [
         {
@@ -89,16 +33,6 @@
           "id": "MNc_zuK9kCM",
           "title": "How Many Multiverses Are There? | Space Documentary 2026",
           "durationSec": 5238
-        }
-      ]
-    },
-    {
-      "name": "Arise News",
-      "videos": [
-        {
-          "id": "FWwmFPBSLIQ",
-          "title": "Tinubu Approves Increased Pay For Nigerian Soldiers - Dayo Sobowale",
-          "durationSec": 482
         }
       ]
     },
@@ -382,7 +316,7 @@
         },
         {
           "id": "fv5lJjR6DmQ",
-          "title": "We’ve Seen the Sun’s Inner Corona For the First Time",
+          "title": "We’ve Seen the Sun’s Inner Corona For the First Time... and It's Not What We Expected",
           "durationSec": 1427
         },
         {
@@ -583,12 +517,17 @@
       ]
     },
     {
-      "name": "BBC Earth Science",
+      "name": "Ben 10",
       "videos": [
         {
-          "id": "wkQuOrsgVGY",
-          "title": "Eight Wonders Of Our Solar System | The Planets | BBC Earth Science",
-          "durationSec": 3930
+          "id": "K8afchK7dLQ",
+          "title": "Omni-Tricked Part 1 | Full Episode | Ben 10 | Cartoon Network",
+          "durationSec": 650
+        },
+        {
+          "id": "Wvb1DKckM-0",
+          "title": "Girls Compete For Ben?! | Ben 10: Omniverse | Cartoon Network",
+          "durationSec": 175
         }
       ]
     },
@@ -608,32 +547,67 @@
       ]
     },
     {
-      "name": "Bub Explains",
+      "name": "Cartoon Network",
       "videos": [
         {
-          "id": "Xw7c1RpXY8Y",
-          "title": "Literally Everything About Algebra Explained Slowly (For Sleep)",
-          "durationSec": 9554
+          "id": "xqoaVZnNrIo",
+          "title": "Most Epic Princess Rescues👸 Adventure Time | Cartoon Network",
+          "durationSec": 991
+        },
+        {
+          "id": "OisJiuXPr-s",
+          "title": "TV Knight 10 📺 | Teen Titans GO! | Cartoon Network",
+          "durationSec": 141
         }
       ]
     },
     {
-      "name": "Channels Television",
+      "name": "Cartoon Network India",
       "videos": [
         {
-          "id": "rZzyO24bxws",
-          "title": "Exclusive Interview With Peter Obi On Sunday Politics",
-          "durationSec": 6745
+          "id": "Z7IrX8CwB2c",
+          "title": "Ceaseless Holiday Chaos!😂| Tom and Jerry😺| Cat & Mouse Cartoon😁| Kids Cartoon😍| @cnindia ​",
+          "durationSec": 1741
         },
         {
-          "id": "3dwugU6gIfk",
-          "title": "Gov Alia Is Not Only Helpless But I Wonder Whether He Is In Charge Of Benue - Activist",
-          "durationSec": 109
+          "id": "AyH7HiMwhv4",
+          "title": "Chaos Has Two Names!🐱💥| Tom and Jerry😺| Cat & Mouse Cartoon😁| @cnindia ​",
+          "durationSec": 1804
         },
         {
-          "id": "jatQevNvVoQ",
-          "title": "Protest: Sowore Demands ₦500,000 Minimum Wage, Nnamdi Kanu’s Release",
-          "durationSec": 433
+          "id": "8uXh3_bt77M",
+          "title": "Tom and Jerry 😺🐭| Keep Calm And Watch The Chaos 🫨| Best Animations😆| @cnindia​",
+          "durationSec": 5223
+        }
+      ]
+    },
+    {
+      "name": "Cartoon Network UK",
+      "videos": [
+        {
+          "id": "bMtKuJAw8gk",
+          "title": "Nap Spot: FULL EPISODE | Regular Show: The Lost Tapes | Cartoon Network UK",
+          "durationSec": 690
+        },
+        {
+          "id": "zI--UF9IiD8",
+          "title": "Starfire's New Identity |Teen Titans Go! | Cartoon Network UK",
+          "durationSec": 279
+        },
+        {
+          "id": "l4jPtbMCBWo",
+          "title": "Titans Go to School |Teen Titans Go! | Cartoon Network UK",
+          "durationSec": 274
+        },
+        {
+          "id": "_oAlNLCY0Wg",
+          "title": "FULL EPISODE: Tape's Nap Spot | NEW Regular Show: The Lost Tapes | Cartoon Network UK",
+          "durationSec": 687
+        },
+        {
+          "id": "-zFkCh6YzFs",
+          "title": "Laundry Day: FULL EPISODE | Teen Titans Go! | Cartoon Network",
+          "durationSec": 651
         }
       ]
     },
@@ -889,6 +863,11 @@
           "id": "i0mChqi0mxg",
           "title": "The Jetsons | The Family Buys A New Car! | Beyond Infinity",
           "durationSec": 306
+        },
+        {
+          "id": "humlPDsNyVQ",
+          "title": "The Jetsons | George Jetson Goes To A Football Game! | Beyond Infinity",
+          "durationSec": 309
         }
       ]
     },
@@ -1073,18 +1052,13 @@
       ]
     },
     {
-      "name": "DIBEOS",
-      "videos": [
-        {
-          "id": "tOC8vfVAnus",
-          "title": "Top 23 Differential Equations in Mathematical Physics",
-          "durationSec": 2842
-        }
-      ]
-    },
-    {
       "name": "DW Documentary",
       "videos": [
+        {
+          "id": "4XjVsXnqS_o",
+          "title": "Assaults in the hospital - When doctors harass their female colleagues | DW Documentary",
+          "durationSec": 2501
+        },
         {
           "id": "cJPpfoC0D1I",
           "title": "Steve Jobs and the Apple story - From rebel to tech titan | DW Documentary",
@@ -1579,11 +1553,6 @@
           "id": "Jl9MM-C0Ag0",
           "title": "The deadly route to Europe: Exploited by smugglers, human traffickers and warlords | DW Documentary",
           "durationSec": 1706
-        },
-        {
-          "id": "goMr8GkpeM8",
-          "title": "What distinguishes humans from animals? | DW Documentary",
-          "durationSec": 3116
         }
       ]
     },
@@ -1603,32 +1572,12 @@
       ]
     },
     {
-      "name": "Flash Bytes",
-      "videos": [
-        {
-          "id": "N2J-E36it2E",
-          "title": "Every Calculus Concept Explained in 15 Minutes",
-          "durationSec": 939
-        }
-      ]
-    },
-    {
       "name": "GBH News",
       "videos": [
         {
           "id": "Y5KUFGaGBAY",
           "title": "Why do we exist? Dr. Hakeem Oluseyi on the universe, Black representation, and access to science",
           "durationSec": 1607
-        }
-      ]
-    },
-    {
-      "name": "History",
-      "videos": [
-        {
-          "id": "yQTMBslAjnw",
-          "title": "The Complete Odyssey: Every Myth & Monster (20-Year Journey Full Movie",
-          "durationSec": 7244
         }
       ]
     },
@@ -1657,7 +1606,7 @@
         },
         {
           "id": "Z5rbZgPLvY4",
-          "title": "What This Super El Niño Will Do That Computers Missed",
+          "title": "What This Super El Niño Will Do That Not Even Computers Predicted",
           "durationSec": 1278
         },
         {
@@ -2371,9 +2320,9 @@
       "name": "Magnetic Space",
       "videos": [
         {
-          "id": "A9Tf7nPC7Fo",
-          "title": "25 Trillion Miles Suddenly Doesn't Matter Anymore | The Warp Drive Breakthrough",
-          "durationSec": 10941
+          "id": "o80jfKj63Hk",
+          "title": "Why Massless Light Bends Around Gravity? | The Spacetime Secret",
+          "durationSec": 13400
         },
         {
           "id": "MlZgBHA_-Ek",
@@ -2399,6 +2348,11 @@
           "id": "QQamm_Za3TU",
           "title": "How Long Could a Generation Ship Survive in Deep Space? | The 1000 Year Journey",
           "durationSec": 13349
+        },
+        {
+          "id": "A9Tf7nPC7Fo",
+          "title": "25 Trillion Miles Suddenly Doesn't Matter Anymore | The Warp Drive Breakthrough",
+          "durationSec": 10941
         },
         {
           "id": "Wc9N2sWH8S8",
@@ -3133,16 +3087,6 @@
       ]
     },
     {
-      "name": "NTA Live",
-      "videos": [
-        {
-          "id": "2TTI3clGs-U",
-          "title": "Newspaper Review | 29 July 2026 | NTA",
-          "durationSec": 744
-        }
-      ]
-    },
-    {
       "name": "New Mind",
       "videos": [
         {
@@ -3199,26 +3143,6 @@
           "id": "WDwP1gqHm3o",
           "title": "The Science of Stopping",
           "durationSec": 1611
-        }
-      ]
-    },
-    {
-      "name": "NickRewind",
-      "videos": [
-        {
-          "id": "-UEtpRgCEMc",
-          "title": "90 Minutes of Every Carly and Freddie Moment Ever! 🥰 | iCarly | NickRewind",
-          "durationSec": 5462
-        }
-      ]
-    },
-    {
-      "name": "Nigeria Info FM",
-      "videos": [
-        {
-          "id": "gr3D-na0gmw",
-          "title": "Daily Digest with Jimi Disu, Tuesday, 28/07/2026",
-          "durationSec": 2881
         }
       ]
     },
@@ -3303,12 +3227,12 @@
       ]
     },
     {
-      "name": "Restore",
+      "name": "Retro Rewindz",
       "videos": [
         {
-          "id": "b9Elh5y3hto",
-          "title": "The Ultimate Sony Restoration! Bringing A 20-Year-Abandoned Sound System Back To Life! (Part 1)",
-          "durationSec": 1408
+          "id": "8bclMpe2Npg",
+          "title": "Cartoon Network Saturday Morning Cartoons | 2007 | Full Episodes w/ Commercials",
+          "durationSec": 8931
         }
       ]
     },
@@ -4048,22 +3972,47 @@
       ]
     },
     {
-      "name": "Tech District",
+      "name": "SpaceGirl Station",
       "videos": [
         {
-          "id": "ADfGxLwYRNs",
-          "title": "The Rise and Fall of Xerox, the Rochester Lab That Built the Future as Silicon Valley Took It",
-          "durationSec": 1301
+          "id": "NAWOdnuDBBU",
+          "title": "Classic Cartoon Network New Years' Eve Live Stream",
+          "durationSec": 37924
         }
       ]
     },
     {
-      "name": "Throwback Toons",
+      "name": "The Amazing World of Gumball",
       "videos": [
         {
-          "id": "EsXIvPbBWsc",
-          "title": "Men In Black: The Series | The Alpha Syndrome | Season 1 Ep. 4 | Throwback Toons",
-          "durationSec": 1312
+          "id": "6C9NK1NtB3c",
+          "title": "Best Friends Competition | Gumball | Cartoon Network Compilation",
+          "durationSec": 6804
+        }
+      ]
+    },
+    {
+      "name": "The Powerpuff Girls",
+      "videos": [
+        {
+          "id": "0MdNaROVFw0",
+          "title": "Miss Bellum is a DOG?  🐶🤯 | Powerpuff Girls | Cartoon Network",
+          "durationSec": 579
+        }
+      ]
+    },
+    {
+      "name": "The Story of Inventors",
+      "videos": [
+        {
+          "id": "JCPddLK9XoQ",
+          "title": "He Failed 5,126 Times Before Changing the World | The James Dyson Story #history #education #foryou",
+          "durationSec": 467
+        },
+        {
+          "id": "7_n8IuQffnQ",
+          "title": "The Man Who Invented the World Wide Web | The Untold Story of Tim Berners-Lee #history #foryou",
+          "durationSec": 775
         }
       ]
     },
@@ -4816,9 +4765,9 @@
       "name": "Warner Bros. Classics",
       "videos": [
         {
-          "id": "w7sICPn17uE",
-          "title": "Looney Tunes | Bugs, Daffy, Porky, & Wile Cartoon Icons Compilation | Warner Classics",
-          "durationSec": 3299
+          "id": "8kk4Glh6bKY",
+          "title": "Tom and Jerry | Full Episodes Mega Compilation | Vol. 32 | Warner Classics",
+          "durationSec": 3010
         },
         {
           "id": "3MliWXf3aW0",
@@ -4831,9 +4780,9 @@
           "durationSec": 2664
         },
         {
-          "id": "8kk4Glh6bKY",
-          "title": "Tom and Jerry | Full Episodes Mega Compilation | Vol. 32 | Warner Classics",
-          "durationSec": 3010
+          "id": "w7sICPn17uE",
+          "title": "Looney Tunes | Bugs, Daffy, Porky, & Wile Cartoon Icons Compilation | Warner Classics",
+          "durationSec": 3299
         },
         {
           "id": "OBMBUks8zCE",
@@ -5244,6 +5193,21 @@
           "id": "NEOheYl8fck",
           "title": "It Happened on 5th Avenue | Caught on Christmas Eve | Warner Classics",
           "durationSec": 589
+        },
+        {
+          "id": "Z4wd8x_MmFw",
+          "title": "3 Godfathers | Arriving at New Jerusalem on Christmas Eve | Warner Classics",
+          "durationSec": 552
+        },
+        {
+          "id": "8OdMRdcIeII",
+          "title": "Tom and Jerry | Mega Episode: Golden Era Vol. 5 | Warner Classics",
+          "durationSec": 2994
+        },
+        {
+          "id": "ZDeJn6S3_Ww",
+          "title": "Looney Tunes | Classic Daffy Duck Mega Compilation | Warner Classics",
+          "durationSec": 3541
         }
       ]
     },
@@ -5258,12 +5222,12 @@
       ]
     },
     {
-      "name": "johnfarnhamresource",
+      "name": "We Bare Bears",
       "videos": [
         {
-          "id": "cIvXn4CMpxI",
-          "title": "\"Please Don't Ask Me\" [Live] from the 'Classic Jack Live!' DVD",
-          "durationSec": 316
+          "id": "rj2IOzpWdVg",
+          "title": "Too Much Fast Food 🍔 | We Bare Bears Food Moments | Cartoon Network",
+          "durationSec": 3044
         }
       ]
     }
@@ -5274,10 +5238,10 @@
     "bookmarkletVersion": "2.4",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 OPR/133.0.0.0",
     "counts": {
-      "renderers": 1062,
-      "channels": 45,
-      "videos": 1008,
-      "watched": 2,
+      "renderers": 1048,
+      "channels": 39,
+      "videos": 1007,
+      "watched": 0,
       "unattributed": 0
     },
     "unattributedSamples": []
